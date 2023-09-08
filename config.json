@@ -1,0 +1,6 @@
+{   
+   "https":"0.0.0.0:8082",
+   "http":"0.0.0.0:8083",
+   "private":"server_pkcs8.key",
+   "cert":"server.crt"
+}
